@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/nikita-gaponov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-darkgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/GaponovNikita" target="_blank">
+  <a href="https://t.me/nikita_gaponov" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-darkgreen?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:nikitagaponov@gmail.com" target="_blank">
@@ -36,5 +36,10 @@
 <div align="center">
 
   [![codewars](https://www.codewars.com/users/NikCan/badges/large)](https://www.codewars.com/users/NikCan)
+
+</div>
+<div align="center">
+
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/NikCan)](https://leetcode.com/NikCan)
 
 </div>
